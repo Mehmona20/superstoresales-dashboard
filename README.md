@@ -39,9 +39,7 @@ This project was created using Power BI to analyze Superstore sales data. The da
 - West region recorded the highest sales.
 - Technology generated much higher sales than Office Supplies, but both categories earned similar profit.
 - Furniture generated lower profit despite similar sales.
-- ## Note
-
-The original dataset is included in this repository for reference. Data cleaning and transformation were performed in Power Query, and all cleaning steps are saved inside the Power BI (.pbix) file.
+  
 
 ## Tools & Skills
 Power BI, Power Query, Data Cleaning, Data Visualization, Business Insights
